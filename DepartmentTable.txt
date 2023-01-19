@@ -1,0 +1,1 @@
+CREATE TABLE Department(deptId int NOT NULL PRIMARY KEY, deptName varchar(25), deptLoc varchar(20));
