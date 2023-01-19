@@ -1,1 +1,6 @@
 CREATE TABLE Employee(empId int NOT NULL primary key, empName varchar(25), empSal float(2), empDob date, empLoc varchar(20));
+
+INSERT INTO EMPLOYEE(1111,"Shiva",25000,'2000-04-26','Chennai';
+INSERT INTO EMPLOYEE(1112,"Aruljothi",35000,'1999-11-29','Banglore';
+INSERT INTO EMPLOYEE(1113,"Jayakumar",38000,'2001-06-20','Chennai';
+INSERT INTO EMPLOYEE(1114,"Raghu",18000,'2000-03-20','Hydrabad';
